@@ -22,7 +22,7 @@ Chrome插件，用于批量拉黑微博监督员
 ![image.png](http://upload-images.jianshu.io/upload_images/126834-7cecc70e63e2e0eb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-6.由于插件拦截并修改了浏览器请求的Header，拉黑完毕最后卸载插件
+6.由于插件拦截并修改了浏览器请求的Header，拉黑完毕最好卸载插件
 
 # 致谢
 感谢 [yu961549745](https://github.com/yu961549745/WeiboBlackList)  以及该页面中的贡献人员
