@@ -20,3 +20,6 @@ Chrome插件，用于批量拉黑微博监督员
 
 
 6.由于插件拦截并修改了浏览器请求的Header，拉黑完毕最后卸载插件
+
+## 致谢
+[yu961549745](https://github.com/yu961549745/WeiboBlackList)
