@@ -11,7 +11,7 @@ let errorNum = 0;
 let xhr = new XMLHttpRequest();
 
 var modifyFunction = function(details) {
-    details.requestHeaders.push({name:"Origin",value:"http://weibo.com/zhijp?is_hot=1"});
+    details.requestHeaders.push({name:"Origin",value:"http://weibo.com"});
     details.requestHeaders.push({name:"Referer",value:"http://weibo.com"});
     return {requestHeaders: details.requestHeaders};
 }
